@@ -1,2 +1,18 @@
 Hello welcome
 https://www.youtube.com/watch?v=J_Clau1bYco
+
+change directory to file directory where it is located 
+cd /c
+cd git/
+
+cd sample
+ls
+git add Newfolder.zip
+
+status it ll give status of the files in git folder
+git commit -m "msg" Newfolder.zip
+git push -u origin main 
+
+finally pushed
+
+ 
