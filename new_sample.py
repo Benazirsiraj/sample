@@ -8,7 +8,7 @@ def greet(name):
     Returns:
         str: A greeting message
     """
-    return f"Hello, {name}! Welcome!"
+    return f"Hello, {name}! Welcome! Home"
 
 
 # Example usage
